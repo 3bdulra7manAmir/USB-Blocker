@@ -3,6 +3,6 @@
 
 # USB-Blocker
 
-A Small & Simple Python Script to Block All USB Ports.
+- A Small & Simple Python Script to Block All USB Ports.
 
 ![banned_usb_flashdrive](https://github.com/user-attachments/assets/f9b88039-ea9d-43bf-984f-c29c5588f7c9)
